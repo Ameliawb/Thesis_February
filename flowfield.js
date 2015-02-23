@@ -10,7 +10,7 @@
 // Daniel Shiffman
 // http://natureofcode.com
 
-// Flow Field Following
+// Flow Field Following http://www.red3d.com/cwr/
 
 
 function FlowField(r) {

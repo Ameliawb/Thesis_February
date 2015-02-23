@@ -1,3 +1,10 @@
+//██████╗ ███████╗
+//██╔══██╗██╔════╝
+//██████╔╝███████╗
+//██╔═══╝ ╚════██║
+//██║     ███████║
+//╚═╝     ╚══════╝              
+        
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
@@ -17,7 +24,7 @@ function setup() {
 
 
 
-    createCanvas(width, height);
+    createCanvas(1250, 650);
     // Make a new flow field with "resolution" of 16
     flowfield = new FlowField(50);
     // Make a whole bunch of vehicles with random maxspeed and maxforce values
